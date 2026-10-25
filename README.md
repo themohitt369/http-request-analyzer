@@ -15,6 +15,23 @@ A Python-based command-line tool for sending HTTP requests, analyzing request an
 - Handles common request errors, including connection failures and timeouts.
 - Includes an automated test suite using Python's `unittest` framework.
 
+## Project Screenshots
+
+### Application Run
+![Application Run](screenshots/01-application-run.png)
+
+### Automated Tests
+![Automated Tests](screenshots/02-automated-tests.png)
+
+### Project Structure
+![Project Structure](screenshots/03-project-structure.png)
+
+### Sample Report
+![Sample Report](screenshots/04-sample-report.png)
+
+### Documentation
+![Documentation](screenshots/05-documentation.png)
+
 ## Project Architecture
 
 ```text
